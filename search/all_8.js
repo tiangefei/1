@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['seewalls',['seeWalls',['../_light1_8cpp.html#aef6c335a58341d63c51fef25cd9cfa9f',1,'Light1.cpp']]],
-  ['stdafx_2ecpp',['stdafx.cpp',['../stdafx_8cpp.html',1,'']]],
-  ['stdafx_2eh',['stdafx.h',['../stdafx_8h.html',1,'']]]
+  ['main',['main',['../_light1_8cpp.html#a700a0caa5b70a06d1064e576f9f3cf65',1,'Light1.cpp']]],
+  ['mult',['mult',['../_light1_8cpp.html#a2467546a905f0a2c90b32ac69a55e737',1,'Light1.cpp']]]
 ];
